@@ -35,10 +35,17 @@ def monopoly_with_third_tier
 	       four_pieces_owned: 200
 	     },
 	     names: {
+<<<<<<< HEAD
 	       reading_railroad:{},
 	       pennsylvania_railroad:{},
 	       b_and_o_railroad:{},
 	       shortline_railroad:{}
+=======
+	       reading_railroad:{pennsylvania_railroad: = Hash.new},
+	       rail_two:{},
+	       rail_three:{},
+	       rail_four:{}
+>>>>>>> a6f91913bd7fde62b7a00bafbacafe179d30cb1a
 	     }
 	 }
 	}
